@@ -32,6 +32,8 @@ class BinaryTree {
 	}
 }
 
+console.log(5)
+
 module.exports = {
 	BinaryNode,
 	BinaryTree,
